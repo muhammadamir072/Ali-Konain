@@ -4,7 +4,7 @@
 I'm a passionate WooCommerce plugin developer from Pakistan 🇵🇰, dedicated to enhancing e-commerce experiences through innovative solutions. With extensive knowledge in WordPress and WooCommerce, I specialize in developing custom plugins that optimize functionality and performance.
 
 - 🌱 I’m currently working on Custom WordPress Woocommerce Plugins.
-- 💼 My recent projects include creading lean dash template design and Woocommerce sheduled order.
+- 💼 My recent projects include creating lean dash template design and Woocommerce scheduled order.
 - 💬 Ask me about WordPress, WooCommerce, or plugin development.
 - 📫 How to reach me: boostwooshop@gmail.com
 
