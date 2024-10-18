@@ -3,14 +3,14 @@
 ## 👨‍💻 About Me
 I'm a passionate WooCommerce plugin developer from Pakistan 🇵🇰, dedicated to enhancing e-commerce experiences through innovative solutions. With extensive knowledge in WordPress and WooCommerce, I specialize in developing custom plugins that optimize functionality and performance.
 
-- 🌱 I’m currently working on Plugify & Fiverr(part time).
+- 🌱 I’m currently working on Custom WordPress Woocommerce Plugins.
 - 💼 My recent projects include creading lean dash template design and Woocommerce sheduled order.
 - 💬 Ask me about WordPress, WooCommerce, or plugin development.
 - 📫 How to reach me: boostwooshop@gmail.com
 
 ## 🛠️ Technologies & Skills
 - **Languages**: JavaScript, PHP, HTML, CSS
-- **Tools**: Git, WooCommerce, WordPress, Fiverr (freelance services), Facebook (business marketing), LinkedIn (networking), Upwork (freelance platform)
+- **Tools**: Git, WooCommerce, WordPress
 - **Databases**: MySQL
 
 
